@@ -1,6 +1,8 @@
 # Shopping list flutter
-
-###Change the name of folder to flutter_application_1
+Practicing flutter project.
+- Include connection to firebase
+  
+### Change the name of folder to flutter_application_1
 A new Flutter project.
 
 ## Getting Started
